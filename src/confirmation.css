@@ -1,0 +1,14 @@
+
+/* Add to your App.css or a separate CSS file */
+.confirmation-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .confirmation-container h1 {
+    color: #28a745; /* Green color */
+  }
+  
+  .confirmation-container p {
+    font-size: 1.2em;
+  }
